@@ -2,3 +2,5 @@
 
 Goal:
 Predicting Global Respiratory Severity Score (GRSS) using data from a prospective multi-year clinical translational study including three cohorts of term infants experiencing their first Respiratory Syncytial Virus (RSV) season. All infants are less than or equal to nine months of age at study entry. The three subject cohorts represent the full spectrum of RSV disease severity and include a birth cohort, a cohort of infants hospitalized for RSV disease and infants evaluated at ambulatory settings for RSV infection. All infants are followed longitudinally and evaluated at recognition of acute RSV infection and twice during convalescence. Genome-wide expression is assessed in the nasal airways (nasal_gene_expr), and in sorted peripheral blood lymphocytes(cd4_gene_expr, cd8_gene_expr, and cd19_gene_expr). Additionally, the microbiome of the nasal airway was measured (nasal_microbiome). All five of these data modalities are hypothesized to contribute to the severity of the disease, measured by a Global Respiratory Severity Score (GRSS), which is the prediction target for this challenge.
+
+R codes for my contribution to this Hackathon is listed here.
